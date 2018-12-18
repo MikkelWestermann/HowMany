@@ -1,0 +1,21 @@
+h1 {
+  width: 95vw;
+  margin: 5px;
+  font-size: 6em;
+  text-align: left;
+}
+
+.title {
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+.title-option {
+  color: #2885d8;
+}
+
+@media only screen and (max-width: 1100px) {
+  h1 {
+    font-size: 4em;
+  }
+}
